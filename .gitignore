@@ -1,0 +1,21 @@
+# Visual Studio / .NET build output
+bin/
+
+obj/
+
+# Visual Studio local settings
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages folder (for packages.config style)
+packages/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
